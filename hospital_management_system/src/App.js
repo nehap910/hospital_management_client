@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import Login from './components/screens/Login'
 
 function App() {
   return (
    <>
-   <h1>Hospital Management System</h1>
+  <Login />
 
-   </>
+  </>
   );
 }
 
