@@ -33,16 +33,6 @@ function Login() {
         >
           FORGOT PASSWORD?
         </a>
-
-        <p class="text-center text-lg">
-          No account?
-          <a
-            href="#"
-            class="font-medium text-blue-900 underline-offset-4 hover:underline"
-          >
-            Create One
-          </a>
-        </p>
       </section>
     </main>
   );
